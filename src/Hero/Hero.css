@@ -1,0 +1,8 @@
+.hero{
+    width: 100%;
+    min-height: 100vh;
+    background: url('../assets/hero.png');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}

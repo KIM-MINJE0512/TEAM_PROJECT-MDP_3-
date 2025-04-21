@@ -1,0 +1,17 @@
+.programs {
+    margin: 10% auto;
+    padding-left: 10%;
+    width: 90%;
+    display: flex;
+    align-items: center;
+}
+
+.programs img{
+    width: 40%;
+    border-radius: 10px;
+    display: block;
+}
+
+.program {
+    flex-basis: 31%;
+}
